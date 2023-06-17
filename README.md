@@ -6,3 +6,4 @@
 <li>Tambahkan file/folder di dalam folder kontributor</li>
 <li>Update perubahan tersebut</li>
 <li>Kemudian pull request</li>
+ini perubahan dari repository
