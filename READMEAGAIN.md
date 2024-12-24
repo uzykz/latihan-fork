@@ -4,6 +4,10 @@ Deskripsi singkat tentang projek tentang PyQ6
 
 ## Table of Contents
 
-- [Code Program help my study applicatiion](#C:\Users\aatba\OneDrive\Documents\LTI)
+- [main.py](#main.py)
+- [main_ui.py](#main_ui.py)
+- [main_ui.ui](#main_ui.ui)
+- [moivasi.ui](#moivasi.ui)
+- [motivasi_ui.py](#motivasi_ui.py)
 
 ### Bismillah Gacor
